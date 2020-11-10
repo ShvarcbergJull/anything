@@ -72,3 +72,7 @@ class Sat:
 	def update_outprodparams(self):
 		if self.outproducts == "":
 			return ""
+
+	# def update_stat(self):
+	# 	print("Update statistics")
+	# 	watch_file()
